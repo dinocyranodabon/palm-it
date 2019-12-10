@@ -1,0 +1,13 @@
+.right-banner{
+    display: block;
+    border: 2px solid #B1DDE3;
+    height: 97vh;
+    width: 20vw;
+    position: fixed;
+    background: #B1DDE3;
+    margin-left: 79%;
+}
+.main-logo{
+    height: 40vh;
+    width: 20vw;
+}

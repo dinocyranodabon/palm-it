@@ -1,0 +1,14 @@
+.left-banner{
+    display: block; 
+    border: 2px solid #B1DDE3;
+    height: 97vh;
+    width: 10vw;
+    position: fixed;
+    background: #B1DDE3;
+} 
+.menu-button{
+    height: 8vh;
+    width: 4vw;
+    margin-left: 6vh;
+    margin-top: 1.5vh;
+} 
